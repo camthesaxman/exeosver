@@ -1,8 +1,9 @@
 # Output file
-.exe
+exeosver
+*.exe
 
 # OS generated detritus
-.*~
+*.*~
 .DS_Store
 .DS_Store
 .Spotlight-V100
